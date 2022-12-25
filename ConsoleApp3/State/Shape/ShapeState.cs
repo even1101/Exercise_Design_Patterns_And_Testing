@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp3.Shape;
+namespace ConsoleApp3.State.Shape;
 
 public class ShapeState : InitState
 {

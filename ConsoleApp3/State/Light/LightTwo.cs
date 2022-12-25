@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp3.Light;
+﻿namespace ConsoleApp3.State.Light;
 
 public class LightTwo : ILightState
 {

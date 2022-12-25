@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp3.Light;
+namespace ConsoleApp3.State.Light;
 
 public class Light
 {

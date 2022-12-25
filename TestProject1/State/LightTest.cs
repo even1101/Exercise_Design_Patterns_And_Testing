@@ -1,5 +1,5 @@
 ﻿using ConsoleApp3;
-using ConsoleApp3.Light;
+using ConsoleApp3.State.Light;
 using System;
 using System.Collections.Generic;
 using System.Linq;

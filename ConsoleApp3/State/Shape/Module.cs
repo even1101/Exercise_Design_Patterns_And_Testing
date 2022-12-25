@@ -5,7 +5,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp3.Shape;
+namespace ConsoleApp3.State.Shape;
 
 public class Module : InitState
 {

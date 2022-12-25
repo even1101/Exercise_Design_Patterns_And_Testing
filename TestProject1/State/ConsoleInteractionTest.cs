@@ -1,4 +1,4 @@
-using ConsoleApp3.Shape;
+using ConsoleApp3.State.Shape;
 
 namespace TestProject1.State;
 

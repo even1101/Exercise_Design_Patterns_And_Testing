@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp3.Shape;
+﻿namespace ConsoleApp3.State.Shape;
 
 public class RadiusState : InitState
 {
