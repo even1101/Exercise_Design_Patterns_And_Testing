@@ -1,13 +1,12 @@
-﻿namespace ConsoleApp3.Light
+﻿namespace ConsoleApp3.Light;
+
+public class LightThree : ILightState
 {
-    internal class LightThree : ILightState
+
+
+    public string PressSwitch(Light light)
     {
-
-
-        public string PressSwitch(Light light)
-        {
-            light.State = new LightTwo();
-            return LightStatusEnum.LightTwo.ToString();
-        }
+        light.State = new LightTwo();
+        return LightStatusEnum.LightTwo.ToString();
     }
 }

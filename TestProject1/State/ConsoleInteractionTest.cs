@@ -1,6 +1,6 @@
 using ConsoleApp3.Shape;
 
-namespace TestProject1;
+namespace TestProject1.State;
 
 public class ConsoleInteractionTest
 {

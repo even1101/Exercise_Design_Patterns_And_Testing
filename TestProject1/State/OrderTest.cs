@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestProject1;
+namespace TestProject1.State;
 
 public class OrderTest
 {
