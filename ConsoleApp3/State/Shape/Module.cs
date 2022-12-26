@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp3.State.Shape;
 
-public class Module : InitState
+public class Module 
 {
     public InitState State;
 
